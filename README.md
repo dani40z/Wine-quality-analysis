@@ -59,7 +59,6 @@ Tujuan utama project ini adalah memahami faktor-faktor yang memengaruhi kualitas
 
 ## 🏆 Project Level
 - **Intermediate → Advanced (entry-level)**  
-- Cocok untuk portfolio **Data Analyst / Junior Data Scientist**  
 
 ---
 
